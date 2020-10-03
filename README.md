@@ -1,4 +1,4 @@
-## HorseRPG
+# HorseRPG
 - Enter the size of the map and the location of the self-propelled gun at the beginning
 - Fill in the numbers from the starting position
 - Fill in according to the rules of chess horse walking day
